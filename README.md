@@ -8,3 +8,7 @@
 ### https://www.geeksforgeeks.org/scrape-content-from-dynamic-websites/
 ### https://www.geeksforgeeks.org/hotel-management-system/
 ### https://www.geeksforgeeks.org/read-json-file-using-python/
+### https://www.geeksforgeeks.org/how-to-build-a-simple-auto-login-bot-with-python/?ref=lbp
+### https://www.geeksforgeeks.org/how-to-make-a-twitter-bot-in-python/?ref=lbp
+### https://www.geeksforgeeks.org/building-whatsapp-bot-on-python/?ref=lbp
+### https://www.geeksforgeeks.org/create-a-telegram-bot-using-python/?ref=lbp
